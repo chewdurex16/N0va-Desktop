@@ -198,3 +198,6 @@ This repository serves as the official landing page for N0va Desktop. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of N0va Desktop today!**
+
+---
+**Last updated:** 2026-11-06 20:43:06 UTC
