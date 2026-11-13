@@ -200,4 +200,4 @@ This repository serves as the official landing page for N0va Desktop. The softwa
 **Get the most recent version of N0va Desktop today!**
 
 ---
-**Last updated:** 2026-11-13 05:33:54 UTC
+**Last updated:** 2026-11-13 14:06:08 UTC
